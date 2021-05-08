@@ -27,7 +27,7 @@ This software contains a number of subsystems:
   We will use the Arduino UNO development board connected to the Bluetooth module to form communication with the mobile application. In addition, the development board has the ability to connect sensing and read it. Arduino can sense the environment through a variety of sensors and can also give feedback and influence the environment by controlling lights, motors and other devices. We will base on this to complete the reading of the temperature sensor and humidity sensor.
   Arduino ide is a professional Arduino development tool, mainly used for Arduino program writing and development, with open source circuit diagram design, support ISP online burning. It is compatible with C language and has become our main development language. We need to download specific IDE function libraries to assist us in developing this IoT application.
 
-#####Version 1.1 Description
+##### Version 1.1 Description
 
 Add Login page to access the smart light.
 
