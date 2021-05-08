@@ -35,3 +35,6 @@ Improve the UI design of the App.
 
 Updated project file to Github
 
+##### How to open project file?
+Visit website http://appinventor.mit.edu/, create a new project and import the .aia file located in GitHub.
+
